@@ -7,5 +7,4 @@ for a in range(1,int(total/3)+1,1):
       list_.append(a)
       list_.append(b)
       list_.append(c)
-print(list_)
 print(list_[0]*list_[1]*list_[2])
